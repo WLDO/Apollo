@@ -1,21 +1,21 @@
 # Site settings
-title: CompanyName
-email: you@CompanyName.com
-description: "Edit description in _config.yml"
+title: William Harvey Design
+email: william.jm.harvey@gmail.com
+description: "A collection of works designed by William Harvey"
 info: "Edit this info in _config.yml"
 message: "Edit this message in _config.yml"
 keywords: "mac,apple,iphone,ios,osx,games,apps,development"
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://www.delightfuldev.com" # the base hostname & protocol for your site
-twitter_username: companytwitter
+url: "http://www.william-harvey.djwldo.com" # the base hostname & protocol for your site
+twitter_username: WLDO
 # Build settings
 markdown: kramdown
 author:
-    name: Your Name
-    twitter: yourtwitter
-    url: http://www.yoururl.com
+    name: William Harvey
+    twitter: WLDO
+    url: http://www.william-harvey.djwldo.com
     header_bg: /images/profile-header.png
     avatar: /images/avatar.jpg
-    email: you@CompanyName.com
+    email: william.jm.harvey@gmail.com
 facebook:
     image: /images/delightfuldev-facebook-cover.png
