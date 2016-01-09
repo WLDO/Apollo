@@ -1,0 +1,37 @@
+---
+layout: post
+title:  "Zavvyt"
+subtitle: "The Ultimate Online Shopping Experience"
+date:   2015-6-25 09:32:24
+categories: iphone
+permalink: "zavvyt"
+device: "iphone"
+name: "Zavvyt"
+tagline: "The Ultimate Online Shopping Experience"
+---
+
+
+{% img center | /images/zavvyt/zavvyt-2.png | Zavvyt %}
+
+{% section_title Organize Your Wish List %}
+{% textalign center %}
+Too busy to go shopping? Zavvyt for later. Whether it’s the hottest trend and the latest gadget and you gotta have it, then you gotta Zavvyt. 
+
+We all shop. Why not take control of your experience and have fun while doing it!
+{% endtextalign %}
+
+{% img fill-width | /images/zavvyt/wine.jpg | Zavvyt %}
+{% section_title Easily add new items to your list %}
+{% textalign center %}
+See something cool but you’re on a budget? Zavvyt and add it to your wishlist easily with the bar code reader feature and get notified about its best deals.
+{% endtextalign %}
+
+{% img center | /images/zavvyt/zavvyt-1.png | Zavvyt %}
+
+{% section_title Never miss a deal %}
+{% textalign center %}
+Get notified when the items on your wishlist reach your affordable price and get the best deals without compromising your finances.
+{% endtextalign %}
+
+{% section_title More Info %}
+{% download coming_soon | http://zavvyt.com %}
