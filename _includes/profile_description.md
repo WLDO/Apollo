@@ -1,1 +1,3 @@
-Add description about you in \_includes/profile\_description.md. You can use [markdown](https://daringfireball.net/projects/markdown/) in the description. The avatar can be set in *author:avatar* in \_config.yml. The background image of this profile card can be set in *author:header_bg* in \_config.yml.
+I'm a multidisciplinary product designer for Mobile and Web applications. I've spent 8 years as a Quality Assurance Engineer for music applications, fighting for the user experience. Since 2012 I have shifted my focus onto *designing* a great User Experience ...instead of complaining about them ;). 
+
+With combined business knowledge gained while building 2 startups, my multidisciplinary computing-arts degree, and experience in the tech space, I am able to create and transform ideas into beautifuly visible, tangible, and testable designs and prototypes, ready for development.
