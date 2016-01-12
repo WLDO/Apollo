@@ -30,13 +30,13 @@ Access all of your class information for a flipped-classroom learning environmen
 {% img center | /images/auctunax/auctunax-8.png | Auctunax %}
 
 {% features %}
-Keep track of all Assignments, Quizzes, & Test dates. 
-See Grades as soon as it's graded.
+Keep track of all Assignments, Quizzes & Test dates. 
+See Grades as soon as they are graded.
 Keep track of attendance.
-Keep up tp Current Events around your school.
+Keep up with Current Events around your school.
 Explore Higher Education Institutions that fit your interests and achievements.
 Access Career-Training resources.
-Maintain a Student Achievement Portfolio that automatically converts it to Resume
+Maintain a Student Achievement Portfolio that automatically converts to a resume.
 {% endfeatures %}
 
 {% section_title Chat with classmates & faculty %}
@@ -58,7 +58,7 @@ Parents can be more active in their child's lives. Parents get notified about em
 
 {% section_title Total Parent Involvement %}
 {% textalign center %}
-In addition to grades, & Due Dates, Parents can chat directly with each of their student's teachers. That means no more yearly Open House meetings!
+In addition to grades & due dates, Parents can chat directly with teachers. That means no more once-a-year meetings!
 {% endtextalign %}
 {% img center | /images/auctunax/auctunax-6.png | Auctunax %}
 
