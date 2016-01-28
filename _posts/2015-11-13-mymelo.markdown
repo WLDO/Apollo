@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  ""
-subtitle: ""
+title:  "MyMelo"
+subtitle: "A Work in Progress, Still Under Disclosure"
 date:   2015-11-13 09:32:24
 categories: desktop
 permalink: "mymelo"
 device: "macbook"
 name: "MyMelo"
-tagline: ""
+tagline: "A Work in Progress"
 ---
 
 {% section_title Logo Design %}
