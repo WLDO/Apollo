@@ -1,3 +1,6 @@
+---
+---
+
 /**
  * main.js
  * http://www.codrops.com
@@ -329,8 +332,8 @@
 
 			isOpen = false;
 
-			window.location = '/'+item.getAttribute('data-content')+'?fr='+current;
-
+			window.location = item.getAttribute('data-content')+'?fr='+current;
+			
 			return;
 		});
 	}
@@ -368,7 +371,11 @@
 			if (qs["fr"] > 0) {
 				window.history.back();
 			} else {
-				window.location = '/';
+				{% if site.baseurl == '' %}
+					window.location = '/';
+				{% else %}
+					window.location = {{ site. baseurl }};
+				{% endif %}
 			}
 		});
 	}
@@ -465,7 +472,7 @@
 		if (current > 0) {
 			window.history.replaceState(null, '', '#'+current);
 		} else {
-			window.history.replaceState(null, '', '/');
+			window.history.replaceState(null, '', '#');
 		}
 
 		if (current % 2 == 0) {

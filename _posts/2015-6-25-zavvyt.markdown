@@ -11,7 +11,7 @@ tagline: "The Ultimate Online Shopping Experience"
 ---
 
 
-{% img center | /images/zavvyt/zavvyt-2.png | Zavvyt %}
+{% img center | /images/zavvyt/zavvyt-1.png | Zavvyt %}
 
 {% section_title Organize Your Wish List %}
 {% textalign center %}
@@ -26,7 +26,7 @@ We all shop. Why not take control of your experience and have fun while doing it
 See something cool but you’re on a budget? Zavvyt and add it to your wishlist easily with the bar code reader feature and get notified about its best deals.
 {% endtextalign %}
 
-{% img center | /images/zavvyt/zavvyt-1.png | Zavvyt %}
+{% img center | /images/zavvyt/zavvyt-2.png | Zavvyt %}
 
 {% section_title Never miss a deal %}
 {% textalign center %}

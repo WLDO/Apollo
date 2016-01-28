@@ -11,7 +11,7 @@ tagline: "A true technology in the classroom"
 ---
 
 
-{% img center | /images/auctunax/auctunax-7.png | Auctunax %}
+{% img center | /images/auctunax/auctunax-1.png | Auctunax %}
 
 {% textalign center %}
 Transform the way you interact with your school by using Auctunax!
@@ -22,12 +22,12 @@ Transform the way you interact with your school by using Auctunax!
 Access all of your class information for a flipped-classroom learning environment, providing a balanced blend of traditional and digital teaching. Connect with Peers to discuss class-work, school-life, and share insights with your entire network.
 {% endtextalign %}
 
-{% img fill-width | /images/auctunax/auctunax-5.jpg | Auctunax %}
+{% img fill-width | /images/auctunax/auctunax-2.jpg | Auctunax %}
 
 
 
 {% section_title Never miss a homework assignment again %}
-{% img center | /images/auctunax/auctunax-8.png | Auctunax %}
+{% img center | /images/auctunax/auctunax-3.png | Auctunax %}
 
 {% features %}
 Keep track of all Assignments, Quizzes & Test dates. 
@@ -48,25 +48,25 @@ Send private messages to other classmates, chat in group forums, speak with Teac
 
 
 {% section_title The Parent Portal%} 
-{% img center | /images/auctunax/auctunax-9.png | Auctunax %}
+{% img center | /images/auctunax/auctunax-5.png | Auctunax %}
 {% textalign center %}
 Parents can be more active in their child's lives. Parents get notified about emergencies, new grades, attendance, and due dates. They can approve absences, they can even approve a field trip permission slip by the scan of a fingerprint!
 {% endtextalign %}
 
 
-{% img fill-width | /images/auctunax/auctunax-1.jpg | Auctunax %}
+{% img fill-width | /images/auctunax/auctunax-6.jpg | Auctunax %}
 
 {% section_title Total Parent Involvement %}
 {% textalign center %}
 In addition to grades & due dates, Parents can chat directly with teachers. That means no more once-a-year meetings!
 {% endtextalign %}
-{% img center | /images/auctunax/auctunax-6.png | Auctunax %}
+{% img center | /images/auctunax/auctunax-7.png | Auctunax %}
 
 {% section_title Parent Access to the LMS  %}
 {% textalign center %}
 Parents can now be more involved than ever before with access to their child's LMS. Helping with Homework has never been easier! A true connection amongst all the main players in a student's education.
 {% endtextalign %}
-{% img center | /images/auctunax/auctunax-10.png | Auctunax %}
+{% img center | /images/auctunax/auctunax-8.png | Auctunax %}
 
 
 
