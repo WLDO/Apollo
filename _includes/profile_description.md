@@ -1,3 +1,3 @@
 I'm a multidisciplinary product designer for Mobile and Web applications. I've spent 8 years as a Quality Assurance Engineer for music applications, fighting for the user experience. Since 2012 I have shifted my focus onto *designing* a great User Experience ...instead of complaining about them ;). 
 
-With combined business knowledge gained while building 2 startups, my multidisciplinary computing-arts degree, and experience in the tech space, I am able to create and transform ideas into beautifuly visible, tangible, and testable designs and prototypes, ready for development.
+With combined business knowledge gained while building 2 startups, my multidisciplinary computing-arts degree, and experience in the tech space, I am equiped to improve your existing UX and UI design, or create and transform your ideas into beautifuly visible, tangible, and testable designs and prototypes, ready for development.

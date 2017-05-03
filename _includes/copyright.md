@@ -1,1 +1,1 @@
-&copy; 2016 William Harvey Design
+&copy; 2017 William Harvey Designs

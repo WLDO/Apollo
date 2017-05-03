@@ -9,6 +9,22 @@
   ga('send', 'pageview');
 
 </script>
+
+<!-- Drip -->
+<script type="text/javascript">
+  var _dcq = _dcq || [];
+  var _dcs = _dcs || {}; 
+  _dcs.account = '3701749';
+  
+  (function() {
+    var dc = document.createElement('script');
+    dc.type = 'text/javascript'; dc.async = true; 
+    dc.src = '//tag.getdrip.com/3701749.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(dc, s);
+  })();
+</script>
+
 <html>
 
   {% include head.html %}
@@ -44,7 +60,8 @@
                           <div class="desc">{% markdown %}{% include profile_description.md %}{% endmarkdown %}</div>
                       </div>
                       <div class="bottom">
-                          <a class="btn btn-primary btn-twitter btn-sm" href="mailto:{{ site.author.email }}">
+                          <!-- <a class="btn btn-primary btn-twitter btn-sm" href="mailto:{{ site.author.email }}"> -->
+                          <a class="btn btn-primary btn-twitter btn-sm" href="https://www.getdrip.com/forms/20013223/submissions/new" data-drip-show-form="20013223" >
                               Contact me
                           </a>
                       </div>
