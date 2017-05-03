@@ -1,21 +1,21 @@
 # Site settings
 title: William Harvey Designs
-email: william.jm.harvey@gmail.com
+email: letstalk@williamharveydesigns.com
 description: "A collection of apps designed by William Harvey"
 info: "A Portfolio"
 message: "A collection of apps designed by William Harvey"
 keywords: "mac,apple,iphone,ios,osx,design,apps,UI,UX"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.williamharveydesigns.com" # the base hostname & protocol for your site
-twitter_username: WLDO
+twitter_username: 
 # Build settings
 markdown: kramdown
 author:
     name: William Harvey
-    twitter: WLDO
+    twitter: 
     url: http://www.williamharveydesigns.com
     header_bg: /images/profile-header.png
     avatar: /images/avatar.jpg
-    email: william.jm.harvey@gmail.com
+    email: letstalk@williamharveydesigns.com
 facebook: 
     image:

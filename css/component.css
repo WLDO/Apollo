@@ -171,6 +171,11 @@ body {
 	width: 112px;
 	height: 198px;
 }
+.zoomer__area--size-7 {
+	/* iPhoneLandscape */
+	width: 112px;
+	height: 198px;
+}
 
 .zoomer__area--size-3 {
 	/* MacBook */
@@ -182,6 +187,12 @@ body {
 	/* iPad */
 	width: 150px;
 	height: 200px;
+}
+
+.zoomer__area--size-6 {
+	/* iPadLandscape */
+	width: 200px;
+	height: 150px;
 }
 
 .zoomer__area--size-5 {
@@ -322,8 +333,29 @@ body {
 	-webkit-transform: translate3d(0,0,0);
 	transform: translate3d(0,0,0);
 }
+label {
+	color: #685884;
+}
+input[type=text], input[type=tel],input[type=email] {
+	/*width: 100%;*/
+	padding: 8px 20px;
+	margin: 8px 0;
+    box-sizing: border-box;
+    border: 2px solid #685884;
+    border-radius: 1px;
+}
 
-
+input[type=submit] {
+	background-color: #685884;
+    color: white;
+    font-family: 'fontello';
+    padding: 20px 32px;
+	font-size: 16px;
+    margin: 4px 2px;
+    border-radius: 14px;
+    border: none;
+}
+input[type=submit]:hover {background-color: #9D82CE;}
 /**************************/
 /* All synced transitions */
 /**************************/
