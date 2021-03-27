@@ -1,0 +1,41 @@
+---
+layout: post
+title:  "Simmons Drums App, By Guitar Center"
+subtitle: "A Mobile Touch Interface Solution to Accompany Simmons Electronic Drum Hardware, Built for Guitar Center"
+date:   2017-1-13 09:32:24
+categories: ipadLandscape
+permalink: "guitarcenterapp"
+device: "ipadLandscape"
+name: "GuitarCenterApp"
+tagline: "Mobile Touch Interface for Guitar Center's Drum Hardware"
+---
+{% textalign center %}
+Full Package: UX/UI/Graphic/Logo/Interaction Design - Animation Prototyping - Development - Quality Assurance - Project Management
+{% endtextalign %}
+
+{% img fill-width | /images/guitarcenterapp/teaching2.jpg | SimmonsDrumsApp %}
+
+{% section_title Challenge %}
+{% textalign left %}
+Guitar Center proposed a challenge to create a mobile touch interface to accompany their hardware. The goal was to create a second layer of interaction, by utilizing the extra computation speed of the mobile device to add more play-ability with the hardware and improve on the existing Hardware interface by taking advantage of the touch interface.
+{% endtextalign %}
+{% img fill-width | /images/guitarcenterapp/animation2.gif | SimmonsDrumsApp %}
+
+
+{% section_title Solution %}
+{% textalign left %}
+Our solution for the touch interface was to ensure that the most important controls were always available and visible to the user within a single swipe, while still displaying access to the extra features so as not to be lost within the app. We also took advantage of the computing power by designing a teaching tool for the user to learn how to play drums. This provided that extra layer of functionality to the existing hardware.
+{% endtextalign %}
+
+{% img fill-width | /images/guitarcenterapp/gc4.jpg | SimmonsDrumsApp %}
+
+{% section_title Results %}
+{% textalign left %}
+So far, we are receiving great feedback from Guitar Center. The app was released in July 2017, The first app was released in July 2017, with several more Apps now released for Guitar Canter, and maintain a monthly user base of 2,600 users!
+{% endtextalign %}
+{% img center | /images/guitarcenterapp/gc3.png | SimmonsDrumsApp %}
+
+{% download direct | https://itunes.apple.com/us/app/simmons-drums-basic-drum-editor-teaching-tool/id1236886060 | ...Check out the Simmons App on the App Store %}
+
+{% section_title Ready to take the next step? %}
+{% download action | /action %}

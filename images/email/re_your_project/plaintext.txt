@@ -1,0 +1,14 @@
+Hi {{ subscriber.name }},
+
+Thanks for inviting me to help you with your project!
+My focus is chiefly on helping you succeed. Not just building you an app or website, but helping you build it the right way from the ground up.
+To get started, I need to learn a bit more about you and your business goals.
+https://williamharveydesigns.typeform.com/to/WIHKrd?pipedrive_id={{subscriber.pipedrive_id}}&amp;name={{subscriber.name}}&amp;email={{subscriber.email}}
+
+Once I get that, I’ll follow-up with you to schedule a time to jump on a call so we can discuss your project and its goals.
+Talk soon,
+William Harvey
+Product Designer
+williamharveydesigns.com
+
+http://williamharveydesigns.com

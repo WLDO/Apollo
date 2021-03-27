@@ -1,0 +1,94 @@
+---
+layout: post
+title:  "Let's Talk!"
+subtitle: Let's convert your product visions into something tangible, beautiful, and intuitively remarkable!
+date:   2011-1-13 09:32:24
+categories: iphone
+permalink: "action"
+device: "iphone"
+name: "Let'sTalk!"
+tagline: "Let's get started on a strategy session today!"
+app_icon: "/images/action/icon.gif"
+---
+
+
+
+{% section_title What I bring to the table %}
+{% features %}
+I will bring your Web or Mobile app idea to life.
+I will integrate your new features onto your existing app. 
+I will evaluate your current app's pain-points, and improve your existing user-flow and design.
+I will research your customer base, understand your company's vision, so we can create a striking new branding strategy for you.
+I will design and implement your business goals with a CEO mentality, with the end-user at the forefront.
+{% endfeatures %}
+
+{% img fill-width | /images/action/image3.jpg | action %}
+
+{% section_title Services %}
+{% features %}
+Logo & Branding design 
+User-flow mapping, Wire-framing & Rapid prototyping (UX)
+Hi-Fidelity Graphic Design with "code-ready" design specification (UI)
+Interaction design & fully animated prototyping and presentation
+Fully managed product design, development, testing, and deployment
+{% endfeatures %}
+
+{% img center | /images/action/responsiveMockupsWHD.png | action %}
+
+{% section_title Industry Experience %}
+{% features %}
+Proud team member of Apple's 2013 iPad App of the Year Recipient, Traktor DJ
+Over a decade of Pro Audio Software, Mobile, and Hardware experience, reaching over 50 million users with 4.5 star ratings
+7 Years Digital Radio & Streaming Experience 
+{% endfeatures %}
+
+{% img center | /images/action/image4.png | action %}
+
+{% section_title Testimonials %}
+{% footnote %}
+"William is an extremely talented, focused, creative and disciplined designer. His approach utilizes the best practices and processes that are industry standards, yet he does not let those protocols throttle his creativity and delivery!" **-Xan Alexander - MyMelo CEO**
+
+"...William is the consummate professional. If he says he'll have it for you tomorrow at 2:00 it'll be ready. No games, straight up pricing, 110% over-delivery. This is so rare for someone as artistic as William to have such a strong grasp of what most businesses crave from artistic individuals - professionalism and the ability to deliver. Absolutely stunning results and I'll be trying to stay on William's calendar well into the future."  **-Jay Everingham - Founder Fancliq**
+{% endfootnote %}
+
+{% img center | /images/action/TinderImageX.png | action %}
+
+{% section_title Let's Talk! %}
+{% textalign left %}
+My goal is chiefly on helping you succeed. Not just building you an app or website, but helping you build it the right way from the ground up. **All of my services include guaranteed support after my work has been handed off, to ensure the project remains on a path of the highest quality.**
+Let's get started on a plan of attack! Please provide your information to the Chatbot below, and I will be in contact with you shortly.
+{% endtextalign %}
+
+<script src="https://static.landbot.io/landbot-widget/landbot-widget-1.0.0.js"></script>
+<div id="landbot-1570399458560" style="width: 100%; height: 700px"></div>
+<script>
+  var myLandbotFrame = new LandbotFrameWidget({
+    container: '#landbot-1570399458560',
+    index: 'https://landbot.io/u/H-93884-UP17PQ7TIDPICM3O/index.html',
+  });
+</script>
+
+<!-- <form action="https://www.getdrip.com/forms/20013223/submissions" method="post" data-drip-embedded-form="20013223">
+  <p>
+    <div align="center">
+    <div>
+        <label align="left" for="fields[name]">Name</label><br />
+        <input type="text" name="fields[name]" value="" />
+    </div>
+    <div>
+        <label for="fields[email]">Email Address</label><br />
+        <input align="center" type="email" name="fields[email]" value="" />
+    </div>
+    <div>
+        <label for="fields[phone]">Phone</label><br />
+        <input align="center" type="tel" name="fields[phone]" value="" />
+    </div>
+    <br/>
+    <div class="g-recaptcha" data-sitekey="6LcUSB0UAAAAALlAcmDylZ7ny1Y5cZ4qxlDTHwYQ" data-theme="dark" data-size="compact" align="center"></div>
+    <br/>
+  <div align="center">
+    <input type="submit" name="submit" value="Contact Me" data-drip-attribute="sign-up-button" />
+  </div>
+    </div>
+    </p>
+</form> -->

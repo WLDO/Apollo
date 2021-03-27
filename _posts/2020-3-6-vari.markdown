@@ -1,0 +1,93 @@
+---
+layout: post
+title: "VARI 4000 App, by Guitar Center"
+subtitle: "PA Speaker Control App for iOS, Built for Guitar Center"
+date:   2020-3-6 09:32:24
+categories: ipadLandscape
+permalink: "vari"
+device: "ipadLandscape"
+name: "vari"
+tagline: "PA Speaker Control App for iOS"
+---
+{% textalign center %}
+UI/UX/Graphic Design - Project Management & Development
+{% endtextalign %}
+
+{% img fill-width | /images/vari/VARIBanner.jpg | Vari4000 %}
+
+{% section_title Challenge %}
+{% textalign left %}
+Guitar Center approached me for the next stage of incorporating Touch Interfaces for their hardware products, this time for a PA speaker system. The goal was to provide a Mobile Touch interface to accompany their newest pro audio speaker line, the VARI 4000 lineup. 
+<br>
+<br>
+The speaker already came with a small LCD with a single push-rotary knob, allowing the user to utilize some of the functionality built into the hardware, so our mission was to build a mobile touch interface that would allow the customer to dig deeper into the hardware functionality via bluetooth, providing ability to walk around a venue freely and tune the speakers for any given location of the room, by the comfort of the customer's iPhone or iPad.  
+<br><br>
+The project manager provided a rough mockup of the main screen and a detailed written spec describing the remaining feature set. My role was to: 
+{% endtextalign %}
+{% features %}
+- design the UX of the remaining feature set, 
+- update the living specification with any changes,
+- convert the mockups into full fidelity screens, 
+- design the app icon & splash screen, 
+- establish a design system, 
+- handoff to development, 
+- manage development & QA though deployment,
+- maintain the app quality through the life of the product
+{% endfeatures %}
+
+{% section_title Wireframes %}
+{% textalign left %}
+The first initial wireframe was provided by the Project manager. It was my task to find any improvements, determine how the user will get from feature to feature, then convert to Full fidelity design while maintaining the branding of the Harbinger brand.
+{% endtextalign %}
+
+{% img center | /images/vari/OriginalWireframe.png | Vari4000 %}
+
+{% features %}
+I suggested the following imporvements to the existing wireframes:
+- Expand the Channel band (the band with the giant "1" in the image) with an animated reaction when pressed, as progressive disclosure of extra functionality to minimize the main screen UI.
+- Any buttons with 3 or more options will open a hovering modal, so the user never 	strays away from the main screen.
+- Any button with 2 options will be a simple toggle, to minimize Development.
+- Tools will be the only panel that leaves the actual Main Page because the Tools is not related to the current setup.
+{% endfeatures %}
+
+{% section_title User Journey %}
+{% textalign left %}
+I mapped out the users’ steps to see how I could simplify their journey to help them instantly reach the most important features of the product, and return to the main page as quickly as possible. Everything must center around the main page. It should take no more than one button to get back to the main page.
+<br><br>
+One major problem arose, we originally specified that the save functionality would work like a traditional Overwrite file functionality in a traditional OS. However after receiving the first beta firmware version for the hardware, we quickly learned that the save functionality was not traditionally written in the firmware OS. Instead, each time the user wants to save, they had to save the current working memory into a slot. So I had to go back and redesign the save functionality midway through the beta stage. 
+<br><br>
+The solution was to provide the user the option to choose a slot before saving, after selecting a slot the user is provided the option to rename before saving. The lesson learned in this situation is to clarify the firmware specification for important OS functionality (like saving files), before entering the alpha stage. 
+{% endtextalign %}
+
+{% img fill-width | /images/vari/HarbingerFlowmap.png | Vari4000 %}
+
+{% section_title UI Design %}
+{% textalign left %}
+Since the app will mostly be used in dark environments, I decided to stick with a dark theme and only use color where necessary. In order to highlight the most important areas of the UI, and make them stand out in the dark environment, I limited color to only represent a selected state and added color to the area that provides the most information, the EQ graph. I decided to use a blue>red gradient that shows red when the EQ is boosted (to convey risk), and blue where the EQ is lowered (to convey safety). Any tappable/unselected button will remain white.
+<br><br>
+It took several iterations of color pallets. I provided several options to run by the marketing department, ultimately we settled with blue as it matched this new VARI 4000 model's branding.
+<br><br>
+To achieve a unique look, we custom designed the main page, but to save cost on development, we used traditional iOS elements to fulfill the remaining UI, such as the Tools page and the save/load routine.
+{% endtextalign %} 
+
+{% img center | /images/vari/VariClayDark.png | Vari4000 %}
+
+{% section_title Results & Retrospective %}
+
+{% textalign left %}
+I found working with the project manager at Guitar Center to be an enlightening experience. I was often challenged with new suggestions to improve the design, many of these being post-design-handoff and during development. So my role was to determine how we could modify the design with minimum development scope-creep. 
+<br><br>
+In my earlier design days, my initial instincts would typically be to say, "no, its too late", but I learned a much more valuable response strategy, and that is to at least prototype the change request, and test with my own eyes to see if the improvement is valuable enough. Often times I could find a solution with minimum development change. 
+<br><br>
+For example, I was asked if I could create a signal strength meter for the bluetooth signal, just weeks before deployment. I checked with the developer, and found that the signal strength data is easily available. So then I took an existing Icon that already had several "signal bands" built into the design, and now we utilize that icon as the signal strength meter, along with its original functionality as the bluetooth disconnect button. It took minimal effort from development, and didn't require any change to the UI layout.
+<br><br>
+Throughout the project there was an overwhelming responsibility to get the user experience right for our customer. Our customer is typically in a high stress situation, where music is being played live, any disruptions in the sound could be a showstopper. I maintained constant user testing during alpha & beta stages, and with the help of our external QA team, we managed to weed out all the UX bottlenecks and bugs before launch.
+
+We currently maintain a 5 star review status in the App Store!
+{% endtextalign %} 
+
+{% img center | /images/vari/Group.png | Vari4000 %}
+
+{% download direct | https://apps.apple.com/us/app/vari-4000/id1487760265 | ...Check out the VARI 4000 App in the AppStore%}
+{% section_title Ready to take the next step? %}
+{% download action | /action %}

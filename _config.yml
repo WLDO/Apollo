@@ -1,10 +1,10 @@
 # Site settings
 title: William Harvey Designs
 email: letstalk@williamharveydesigns.com
-description: "A collection of apps designed by William Harvey"
-info: "A Portfolio"
-message: "A collection of apps designed by William Harvey"
-keywords: "mac,apple,iphone,ios,osx,design,apps,UI,UX"
+description: "Designing engaging Mobile/Web UI/UX solutions for your users"
+info: "A Mobile/Web UI/UX Design Portfolio"
+message: "Designing engaging Mobile/Web UI/UX solutions for your users"
+keywords: "San Diego,California,mac,apple,iphone,ios,osx,design,app,UI,UX,product,mobile,web,freelance,consultant,branding,project management,prototyping,IxD,interaction,motion,animation,presentation"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.williamharveydesigns.com" # the base hostname & protocol for your site
 twitter_username: 

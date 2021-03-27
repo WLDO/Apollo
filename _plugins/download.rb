@@ -9,6 +9,8 @@ module Jekyll
           @img = "/images/app_store.png"
       elsif type.strip.downcase == "play_store"
           @img = "/images/playstore.png"
+      elsif type.strip.downcase == "action"
+          @img = "/images/action.png"
       elsif type.strip.downcase == "direct"
           @text = t[2]
       elsif type.strip.downcase == "coming_soon"
